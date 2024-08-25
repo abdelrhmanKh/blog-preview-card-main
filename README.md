@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-main-6QtdxxBA_o)
+- Live Site URL: [live site URL here](https://abdelrhmankh.github.io/blog-preview-card-main/)
 
 ### Built with
 
